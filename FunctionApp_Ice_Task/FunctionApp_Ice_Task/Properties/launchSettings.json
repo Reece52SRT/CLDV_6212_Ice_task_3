@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FunctionApp_Ice_Task": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7076",
+      "launchBrowser": false
+    }
+  }
+}
