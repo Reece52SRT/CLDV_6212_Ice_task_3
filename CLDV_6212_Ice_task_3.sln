@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLDV_6212_Ice_task_3", "CLDV_6212_Ice_task_3\CLDV_6212_Ice_task_3.csproj", "{7F4071AA-5D70-42F1-97A2-BB9B50626A3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F4071AA-5D70-42F1-97A2-BB9B50626A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F4071AA-5D70-42F1-97A2-BB9B50626A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F4071AA-5D70-42F1-97A2-BB9B50626A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F4071AA-5D70-42F1-97A2-BB9B50626A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3923961-ABD9-4D78-A569-0C22AA57A791}
+	EndGlobalSection
+EndGlobal
